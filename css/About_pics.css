@@ -1,0 +1,48 @@
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+  
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.nav-item {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 15px;
+}
+
+img{
+  width:150px;
+  height:150px;
+  object-fit: contain; 
+ 
+}
+
+p{ 
+  font-weight: bold; 
+  font-family:'Times New Roman', Times, serif; 
+
+}
+
+.g-col-6{
+  border-color: black;
+  border: 0.2px;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: rgb(209, 255, 255);
+}
+
+.malan{
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
